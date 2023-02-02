@@ -36,6 +36,10 @@ namespace hfcu_trefren
             var task2Updated = new Task2Updated();
             task2Updated.Run();
 
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("Hit ENTER to close");
+            Console.ReadLine();
         }
     }
 }
