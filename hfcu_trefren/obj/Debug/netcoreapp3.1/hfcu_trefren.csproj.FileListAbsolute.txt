@@ -1,0 +1,13 @@
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\bin\Debug\netcoreapp3.1\hfcu_trefren.exe
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\bin\Debug\netcoreapp3.1\hfcu_trefren.deps.json
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\bin\Debug\netcoreapp3.1\hfcu_trefren.runtimeconfig.json
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\bin\Debug\netcoreapp3.1\hfcu_trefren.runtimeconfig.dev.json
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\bin\Debug\netcoreapp3.1\hfcu_trefren.dll
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\bin\Debug\netcoreapp3.1\hfcu_trefren.pdb
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\obj\Debug\netcoreapp3.1\hfcu_trefren.AssemblyInfoInputs.cache
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\obj\Debug\netcoreapp3.1\hfcu_trefren.AssemblyInfo.cs
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\obj\Debug\netcoreapp3.1\hfcu_trefren.csproj.CoreCompileInputs.cache
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\obj\Debug\netcoreapp3.1\hfcu_trefren.dll
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\obj\Debug\netcoreapp3.1\hfcu_trefren.pdb
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\obj\Debug\netcoreapp3.1\hfcu_trefren.genruntimeconfig.cache
+C:\Users\ptrefren.000\source\repos\hfcu_trefren\hfcu_trefren\obj\Debug\netcoreapp3.1\hfcu_trefren.GeneratedMSBuildEditorConfig.editorconfig
